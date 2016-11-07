@@ -7,9 +7,9 @@ for i in range (1, limit):
     seq = var1 + var2
     if seq % 2 == 0:
         sum = sum + seq
-    next  = var1 + var2
+    nextSeq  = var1 + var2
     var1 = var2
-    var2 = next
+    var2 = nextSeq
 
 print (sum)
     
