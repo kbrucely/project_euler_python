@@ -1,4 +1,4 @@
-limit = 10
+limit = 100
 limit = limit + 1
 
 sumSquares = 0
